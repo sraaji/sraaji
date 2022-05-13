@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajeswari
-- 👀 I’m interested in learning and working on the learning things.
-- 🌱 I’m currently pursuing my B.Tech 3rd year in the department of ECE.
+- 🌱 I’m currently pursuing my B.Tech 3rd year in the department of ECE from KL University.
+- 👀 I’m interested in learning new things and working on those learning things.
 - 💞️ I’m looking to collaborate on different apllication projects with team work.
 - 📫 Reach me through mail id:rajeswarisivalasetty@gmail.com.
 
